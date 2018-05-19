@@ -1,0 +1,14 @@
+c:\users\peka\documents\visual studio 2013\Projects\AtletAnalyzer\AtletAnalyzer\bin\Debug\AtletAnalyzer.exe.config
+c:\users\peka\documents\visual studio 2013\Projects\AtletAnalyzer\AtletAnalyzer\bin\Debug\AtletAnalyzer.exe
+c:\users\peka\documents\visual studio 2013\Projects\AtletAnalyzer\AtletAnalyzer\bin\Debug\AtletAnalyzer.pdb
+c:\users\peka\documents\visual studio 2013\Projects\AtletAnalyzer\AtletAnalyzer\obj\Debug\AtletAnalyzer.csprojResolveAssemblyReference.cache
+c:\users\peka\documents\visual studio 2013\Projects\AtletAnalyzer\AtletAnalyzer\obj\Debug\AtletAnalyzer.Form1.resources
+c:\users\peka\documents\visual studio 2013\Projects\AtletAnalyzer\AtletAnalyzer\obj\Debug\AtletAnalyzer.Properties.Resources.resources
+c:\users\peka\documents\visual studio 2013\Projects\AtletAnalyzer\AtletAnalyzer\obj\Debug\AtletAnalyzer.csproj.GenerateResource.Cache
+c:\users\peka\documents\visual studio 2013\Projects\AtletAnalyzer\AtletAnalyzer\obj\Debug\AtletAnalyzer.exe
+c:\users\peka\documents\visual studio 2013\Projects\AtletAnalyzer\AtletAnalyzer\obj\Debug\AtletAnalyzer.pdb
+c:\users\peka\documents\visual studio 2013\Projects\AtletAnalyzer\AtletAnalyzer\bin\Debug\AA.mdf
+c:\users\peka\documents\visual studio 2013\Projects\AtletAnalyzer\AtletAnalyzer\bin\Debug\AA_log.ldf
+C:\Users\Peka\Documents\Visual Studio 2013\Projects\AtletAnalyzer\AtletAnalyzer\obj\Debug\AtletAnalyzer.ADD.resources
+C:\Users\Peka\Documents\Visual Studio 2013\Projects\AtletAnalyzer\AtletAnalyzer\obj\Debug\AtletAnalyzer.update.resources
+C:\Users\Peka\Documents\Visual Studio 2013\Projects\AtletAnalyzer\AtletAnalyzer\obj\Debug\AtletAnalyzer.addrezult.resources
